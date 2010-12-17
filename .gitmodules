@@ -4,3 +4,6 @@
 [submodule "ios"]
 	path = ios
 	url = git://github.com/mgratzer/cleancity-ios.git
+[submodule "android"]
+	path = android
+	url = git://github.com/mgratzer/cleancity-android.git
