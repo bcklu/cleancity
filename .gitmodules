@@ -1,3 +1,6 @@
 [submodule "web"]
 	path = web
 	url = git://github.com/mgratzer/cleancity-web.git
+[submodule "ios"]
+	path = ios
+	url = git://github.com/mgratzer/cleancity-ios.git
