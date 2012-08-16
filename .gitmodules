@@ -1,9 +1,9 @@
 [submodule "web"]
 	path = web
-	url = git://github.com/mgratzer/cleancity-web.git
+	url = git://github.com/bcklu/cleancity-web.git
 [submodule "ios"]
 	path = ios
-	url = git://github.com/mgratzer/cleancity-ios.git
+	url = git://github.com/bcklu/cleancity-ios.git
 [submodule "android"]
 	path = android
-	url = git://github.com/mgratzer/cleancity-android.git
+	url = git://github.com/bcklu/cleancity-android.git
